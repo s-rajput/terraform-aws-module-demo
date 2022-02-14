@@ -1,7 +1,8 @@
 # terraform-aws-module-demo
 ## This repository contains a terraform module that will provision underline resources required to run neptune cluster in AWS.
-##  An example folder contains code example to show how to use the module in projects.
 ##  Test folder contains unit tests written in Golang to test the provisioning using Terratest.
+##  An example folder contains code example to show how to use the module in projects.
+
 ### This module that will provision:
 ### 1. Create a VPC
 ### 2. Create a rule for outboung internet access so request can go out
