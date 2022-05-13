@@ -7,7 +7,7 @@
 ### 1. Create a VPC
 ### 2. Create a rule for outboung internet access so request can go out
 ### 3. Create the public subnet for availability zone a and b.
-### 4. Create neptune subnet group and assign above 2 public subnets to it
+### 4. Create neptune subnet group and assign above 2 public subnets to it. (Always use private subnets in prod*)
 ### 5. Create a neptune cluster
 ### 6. Create a neptune instance
 ### 7. Create custom endpoints (reader/writer)
